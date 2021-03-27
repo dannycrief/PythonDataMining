@@ -1,1 +1,4 @@
 .idea
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+notebooks/Homeworks/.ipynb_checkpoints
